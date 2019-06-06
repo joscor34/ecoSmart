@@ -1,0 +1,19 @@
+{
+  "name": "ecosmart",
+  "version": "1.0.0",
+  "description": "This proyect is to save the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joscor34/ecoSmart.git"
+  },
+  "author": "joscor34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joscor34/ecoSmart/issues"
+  },
+  "homepage": "https://github.com/joscor34/ecoSmart#readme"
+}
