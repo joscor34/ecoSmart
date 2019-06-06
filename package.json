@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joscor34/ecoSmart/issues"
   },
-  "homepage": "https://github.com/joscor34/ecoSmart#readme"
+  "homepage": "https://github.com/joscor34/ecoSmart#readme",
+  "dependencies": {
+    "mongoose": "^5.5.13"
+  }
 }
