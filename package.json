@@ -4,7 +4,7 @@
   "description": "This proyect is to save the world",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/joscor34/ecoSmart#readme",
   "dependencies": {
+    "dotenv": "^8.0.0",
     "mongoose": "^5.5.13"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "jest": "^24.8.0"
   }
 }
